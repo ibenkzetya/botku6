@@ -1,0 +1,2 @@
+# botku6
+bot
